@@ -1,4 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/sh
+ver2
 if [ $# = 0 ] && [ -f /data/data/com.termux/files/usr/etc/motd ] && [ ! -f ~/.hushlogin ] && [ -z "$TERMUX_HUSHLOGIN" ]; then
         bash /data/data/com.termux/files/usr/etc/motd
 else

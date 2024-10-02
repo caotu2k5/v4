@@ -1,6 +1,6 @@
 echo -e "\033[1;31mChào các bạn! Mình là Hyper Networks Channel \033[0m"
 echo -e "\033[1;32mPhiên bản: v4 \033[0m"
-echo "Bây giờ là: " $(date +"%H:%M , %d Thg %m %Y")
+echo "Bây giờ là: " $(date +"%H Giờ %M , Ngày %d Tháng %m Năm %Y")
 echo " " 
 echo -e "\033[1;33m[1]: Gõ lệnh tun để khởi động psiphon 0đ\033[0m"
 echo -e "\033[1;34m[2]: Gõ lệnh qexit để thoát nhanh termux\033[0m"
